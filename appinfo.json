@@ -1,0 +1,23 @@
+{
+    "appKeys": {
+        "KEY_CALLE": 1,
+        "KEY_NUMERO": 2,
+        "KEY_SITUACION": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "Pedro",
+    "longName": "Dime donde estoy",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Dime donde estoy",
+    "uuid": "6fa120c4-c657-4743-922e-bfd8bd21065a",
+    "versionCode": 1,
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": false
+    }
+}
